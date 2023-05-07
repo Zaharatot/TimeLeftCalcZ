@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeLeftCalcZ", "TimeLeftCalcZ\TimeLeftCalcZ.csproj", "{EECBE204-8BF7-4B0B-876B-54788DDB6514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeLeftCalcTest", "TimeLeftCalcTest\TimeLeftCalcTest.csproj", "{66109B40-C93D-4ED0-97E4-9194E45AEDF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EECBE204-8BF7-4B0B-876B-54788DDB6514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECBE204-8BF7-4B0B-876B-54788DDB6514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECBE204-8BF7-4B0B-876B-54788DDB6514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECBE204-8BF7-4B0B-876B-54788DDB6514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66109B40-C93D-4ED0-97E4-9194E45AEDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66109B40-C93D-4ED0-97E4-9194E45AEDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66109B40-C93D-4ED0-97E4-9194E45AEDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66109B40-C93D-4ED0-97E4-9194E45AEDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA040B83-C3EC-4107-AA06-53B59D6A9D6B}
+	EndGlobalSection
+EndGlobal
